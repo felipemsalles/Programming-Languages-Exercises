@@ -1,0 +1,463 @@
+#exercise001
+Do a program to print "Hello World".
+
+#exercise002
+Do a program to read the name of a person and then print "Welcome" to this person.
+
+#exercise003
+Do a program to read 2 numbers and then print the sum of number 1 + number 2.
+
+#exercise004
+Do a program to read something from the keyboard and print your type and all possible informations about it. 
+
+#exercise005
+Do a program to read a integer number and print the predecessor and successor of this number.
+
+#exercise006
+Do a algorithm to read a number and print the double, triple and the square root of this number.
+
+#exercise007
+Do a program to read 2 grades of a student, calculate and then print his/her average.
+
+#exercise008
+Do a program to read a value in meters and print this value in centimeters and milimeters.
+
+#exercise009
+Do a program to read a integer number and print the multiplication table of this number.
+
+#exercise010
+Do a program to read how much money a person has in the wallet and then, print how much dollars this person can buy.
+
+#exercise011
+Do a program to read the width and the height of a wall in meters, calculate the area and how much ink a painter needs to have to paint this wall.
+(1 Litre - 1L -> paints an area of 2m²)
+
+
+#exercise012
+Do a algorithm to read a price of a product, calculate a discount of 5% in the price, and print the new price.
+
+
+#exercise013
+Do a algorithm to read a salary of an employee, calculate a salary increase of 15%, and print the new salary.
+
+#exercise014
+Do a algorithm to convert a temperature that was entered in Celsius(C°) to Fahrenheit(F).
+Mathematical formula:
+C / 5 = (F - 32) / 9
+
+#exercise015
+Do a program to ask to the user how many kilometrs were covered using a hired car, and how many days the car was rented. Calculate the price to pay, knowing that
+the car costs $ 60 per day and $ 0.15 per KM covered.
+
+#exercise016
+Do a program to read a Real number from the keyboard and print his integer part.
+
+#exercise017
+Do a program to read the width of the perpendicular side, adjacent side of a right triangle, and calculate the width of the hypotenuse. (Pythagorean Theorem)
+
+#exercise018
+Do a program to read a angle and print the sine value, cosine value and tangent value of this angle.
+
+#exercise019
+Mr. Brown wants to sort four students to erase the whiteboard. Do a program to help him, reading the name of them and printing the name of the chosen student.
+
+#exercise020
+Mr. Brown now wants to sort a order for the students presentation. Do a program to read the name of four students and print the sorted order.
+
+#exercise021
+Do a program to open and play a file (test.mp3). Use pygame library.
+
+#exercise022
+Do a program to read the full name of a person and print:
+-The name in UPPER letters and the name in lower letters.
+-How many letters (not including spaces).
+-How many letters has the first name.
+
+#exercise023
+Do a program to read a number between 0-9999 and print the digits separated.
+Example: Number: 1834 
+         U: 4 D: 3 C: 8 M: 1
+
+
+#exercise024
+Do a program to read a name of a city and tell if starts with the name "NEW".
+
+#exercise025
+Do a program to read a name and tell if "JULIA" is in the name.
+
+#exercise026
+Do a program to read a phrase from the keyboard and print:
+-How many times the letter A appears.
+-First position of letter A.
+-Last position of letter A.
+
+#exercise027
+Do a program to read a full name, printing the first and the last name separately.
+
+#exercise028
+Do a program to your computer choose a number between 0 and 5 (inclusive) and ask to the user if he/she can discover what number the computer chose. 
+The program should write on the window if the user WON or LOST.
+
+#exercise029
+Do a program to read the speed of a car. If this car exceed the speed (80 KM/H), print a messange saying that he/she was fined.(Fine - $ 7.00 per KM exceed.) 
+
+#exercise030
+Do a program to read a integer number and print if this number is even or odd.
+
+#exercise031
+Do a program to ask the distance of a trip in KM. Calculate the price of the ticket. $ 0.50 per KM - Short Distance (up to 200 KM) ; Long Distance ($ 0.45).
+
+#exercise032
+Do a program to read a year and print if this year is a leap year or not.
+
+#exercise033
+Do a program to read 3 numbers and print which number is higher and which is lower.
+
+#exercise034
+Do a program to ask a salary of an employee, and calculate the increase value of his/her salary.
+(Over $ 1250.00 - + 10 % ; Under or Equal 1250.00 - + 15%)
+
+#exercise035
+Do a program to read a width of 3 straight geometric lines and print to the user, if can form a triangle or not.
+(Search the math conditions on the internet to create this program)
+
+#exercise036
+Do a program to approve a bank loan. Ask the value of the house, the salary of the person who wants to buy and how many years he/she pretends to pay for it.
+(The monthly payment can not exceed 30% of the salary, so that he/she can get the bank loan)
+ 
+#exercise037
+Do a program to read a integer number and ask to the user to enter what base he/she wants to convert the number:
+1- Binary
+2- Octal
+3- Hexadecimal
+
+#exercise038
+Do a program to read 2 integer numbers and compare each other, printing on the screen a message:
+-The first number is higher.
+-The second number is higher.
+-Equal numbers.
+
+#exercise039
+Do a program to read the year of birth of a teenager and inform, according with his age, if it is time to do his military conscription, 
+or if he has already passed the right time or if he still have time to do his military conscription. Your program needs to print how much 
+time he passed or have to do it. (18 years - the right time to do your military conscription in Brazil)
+
+#exercise040
+Do a program to read two grades of a student and calculate the average, printing a final message, according to his/her average:
+-Average under 5.0: FAILED
+-Average between 5.0 and 6.9: EDUCATIONAL RECOVERY
+-Average 7.0 or over: APPROVED
+
+#exercise041
+Do a program to tell the category of different athletes according to the category rules. 
+-CHILD: UP TO 9 YEARS
+-KIDS: UP TO 14 YEARS
+-JUNIOR: UP TO 19 YEARS
+-SENIOR: UP TO 25 YEARS
+-MASTER: OVER 25 YEARS
+
+#exercise042
+Do a program to read the width of 3 straight geometric lines and print to the user, if is possible to form a triangle or not. 
+Your program needs to print the type of the triangle that will be created.
+(Search the math conditions on the internet to create this program)
+
+#exercise043
+Do a program to read the weight and height of a person. Calculate his/her Body Mass Index and print the results, according to these categories:
+-UNDER 18.5: UNDERWEIGHT
+-BETWEEN 18.5 and 25.0 (inclusive): IDEAL WEIGHT
+-BETWEEN 25.0 and 30.0 (inclusive): OVERWEIGHT
+-BETWEEN 30.0 and 40.0 (inclusive): OBESITY
+-OVER 40.0: MORBID OBESITY
+
+#exercise044
+Do a program to calculate the price of a product, according to the normal price and the payment condition:
+-1x money: - 10%
+-1x credit card: - 5%
+-UP TO 2x credit card: Normal Price
+-3x or more credit card: 20% of taxes
+ 
+#exercise045
+Do a game to play ROCK PAPER SCISSORS against the computer.
+
+#exercise046
+Do a program to print a countdown to New Year celebration (with a pause of 1 second).
+
+#exercise047
+Do a program to print all even numbers between 1 and 50.
+
+#exercise048
+Do a program to calculate the sum of all odd numbers that are multiple of three between 1 and 500.
+
+#exercise049
+Do another version of the multiplication table, printing it according to the number entered from the keyboard using loop.
+
+#exercise050
+Do a program to read six integers numbers and print ONLY the sum of the even numbers.
+
+#exercise051
+Do a program to read the first term of a Arithmetic Progression, and the common different between terms. In the end, print 10 terms.
+ 
+#exercise052
+Do a program to read a integer number and print if he is a prime number or not.
+
+#exercise053
+Do a program to read if a phrase is a Palindrome (do not consider spaces) or not.
+(Search about palindrome examples to create this program).
+
+#exercise054
+Do a program to read the year of birth of seven people. In the end, print how many people have not reached the legal majority yet and print how many have reached.
+
+#exercise055
+Do a program to read the weight of five people. In the end, print the higher and lower weights entered.
+
+#exercise056
+Do a program to read a name, age and gender of four people. In the end, print:
+-Group Average
+-Eldest man
+-How many women has under 20 years old
+
+#exercise057
+Do a program to read the gender of a person, the program can just accept M or F. If the user enter something wrong, ask again until receive M or F.
+
+#exercise058
+Do a program to your computer choose a number between 0 and 10 (inclusive) and ask to the user if he/she can discover what number the computer chose.
+The user needs to discover the number. In the end, print how many chances he/she used to discover the computer number. 
+
+#exercise059
+Do a program to read two numbers and print a menu of options,
+ [1] - Addition
+ [2] - Subtraction
+ [3] - Highest
+ [4] - New Numbers
+ [5] - Exit
+Your program needs to run these options and print the results.
+
+#exercise060
+Do a program to read a number and print the factorial of this number.
+
+#exercise061
+Do a program to read the first term of a Arithmetic Progression, and the common different between terms. In the end, print 10 terms using while.
+
+#exercise062
+Do another version of the Arithmetic Progression problem, asking to the user if he/she wants to see more terms. The program will stop when the user enter 0.
+
+#exercise063
+Do a program to read a integer number and print n terms of Fibonacci sequence.
+(Search about Fibonacci sequence on the internet)
+
+#exercise064
+Do a program to read n integers numbers from the keyboard. The program will stop only if the user enter 999 (stop condition). In the end, print how many numbers
+were typed and the sum of these numbers (flag - 999 is not included).
+
+#exercise065
+Do a program to read n integers numbers from the keyboard. In the end, print: the average of them, the higher number, and lower number. Your program needs to ask to the user
+if he/she wants to continue or stop. 
+
+#exercise066
+Do a program to read n integers numbers from the keyboard. The program will stop only if the user enter 999 (stop condition). In the end, print how many numbers
+were typed and the sum of these numbers (flag - 999 is not included). Use Break.
+
+#exercise067
+Do a program to print a multiplication table of n numbers. The program will stop when the user enter a negative number.
+
+#exercise068
+Do a program to play even or odd against the computer. The program will stop when the user lose. In the end, print the number of consecutive wins.
+
+#exercise069
+Do a program to read the age, and gender of n people. For each person, the program will ask if the user wants to continue or not. In the end, print:
+-How many people have more than 18 years old
+-How many mens registered
+-How many women have under 20 years old
+
+
+#exercise070
+Do a program to read a name, and a price of many products. The program will ask if the user wants to continue or not. In the end, print:
+-Total
+-How many products costs more than $ 1000.00
+-What is the name of the cheapest product bought.
+
+#exercise071
+Do a program to simulate an ATM.To start, ask to the user how much he/she will withdraw (integer number) and the program will inform how many ballots of each
+will be given (ATM BALLOTS - $ 50, $ 20 and $ 10)
+
+#exercise072
+Do a program to create a tuple containing 20 numbers in the extensive form (0-20). Your program needs to read a number, 
+and print the respect number into the extensive form.
+
+#exercise073
+Do a program to create a tuple that contains all 20 best soccer teams of a Internacional Cup. In the end, print:
+-The first five teams
+-The last four teams
+-The times in alphabetical order
+-What position is Barcelona.
+
+#exercise074
+Do a program to generate five random numbers and create a tuple. In the end, print a list of numbers, indicating the lower and higher number in the tuple.
+
+#exercise075
+Do a program to read four values from the keyboard and insert them in a tuple. In the end, print:
+-How many times the number 9 appeared
+-What was the first position of number 3
+-Print the even numbers
+ 
+#exercise076
+Do a program using a single tuple with product names and their prices. In the end, create a menu, organizing the data like a tabular form.
+
+#exercise077
+Do a program using a tuple with words. In the end, the program needs to print, for each word, what are their vowels.
+
+#exercise078
+Do a program to read five numbers and insert them in a list. In the end, print the higher and lower numbers entered, and their positions in the list.
+
+#exercise079
+Do a program to read n numeric values and insert them in a list. If a number is already in the list, this number is not inserted. In the end, print the values in
+asceding order.
+
+#exercise080
+Do a program that the user can enter five numbers and insert them in a list (in the correct position - without using sort() ). In the end, print the ordered list.
+
+#exercise081
+Do a program to read n numbers and insert them in a list. In the end, print:
+-How many numbers entered.
+-The list in the descending order form.
+-If the number 5 is in the list or not.
+
+#exercise082
+Do a program to read n numbers and insert them in a list. After that, you need to create 2 new lists, one to store even numbers and the other odd numbers. In the end, print
+all lists that were created.
+
+#exercise083
+Do a program to read a expression in brackets. Your program will analyze if the expression have open brackets and close brackets in the correct order.
+
+#exercise084
+Do a program to read name, and weight of many people, inserting all of them in a list. In the end, print:
+-How many people are in the list.
+-A list of people that has the higher values of weight.
+-A list of people that has the lower values of weight.
+
+#exercise085
+Do a program to read seven numbers and insert them in just one list, separating the even number and the odd numbers. In the end, print the even numbers and odd numbers in
+the asceding order.
+
+#exercise086
+Do a program to create a math matrix 3x3 and insert values from the keyboard. In the end, print the matrix on the screen in the correct form.
+
+#exercise087
+Do a program to create a math matrix 3x3 and insert values from the keyboard. In the end, print:
+-The sum of all even numbers
+-The sum of all values of third column
+-The higher value of second row
+
+#exercise088
+Do a program to help a person play a lottery game. The program will ask how many games will be generated and sort six numbers between 1 and 60 for each game, inserting them
+in a compost list.
+
+#exercise089
+Do a program to read a name and two grades of many students and store them in a compost list. In the end, print their results with the average of all students and allows
+the user to print the individual result of a student.
+
+#exercise090
+Do a program to read a name and average of a student, storing his/her situation in a dictionary. In the end, print the content on the screen.
+
+#exercise091
+Do a program where 4 players will play a dice of random values. Store these results in a dictionary. In the end, you need to reorder this dictionary, knowing that
+the winner got the higher number.
+
+#exercise092
+Do a program to read a name, year of birth and work permit. After that, register them (including the age) in a dictionary. If the work permit is different from 0, 
+the dicionary will receive the year hired and his/her salary. Calculate and add, how many years this person will have when retire.
+
+#exercise093
+Do a program to manage the soccer player information. The program will read the name and how many matches this player played. After that the program will read how many
+goals werer scored in each of these matches. In the end, these information will be stored in a dictionary, including the number of goals in the cup.
+
+#exercise094
+Do a program to read a name, a gender and age of many people, storing these informations in a dictionary and all the dictionaries in a list. In the end, print:
+-How many people registered
+-Age average
+-Women List
+-A list of people over the age average
+
+#exercise095
+Do a program to manage the soccer player information. The program will read the name and how many matches this player played. After that the program will read how many
+goals werer scored in each of these matches (these information will be stored in a dictionary, including the number of goals in the cup). In the end, include a sytem to
+visualize the individual attaintment of a player.
+
+#exercise096
+Do a program to create a function area, receiving 2 parameters (width and length). In the end, calculate and print the area.
+
+#exercise097
+Do a program to create a function write, receiving any text to be the parameter. In the end, print this text in a adaptable form according to the lentgh of this text.
+
+#exercise098
+Do a program to create a function counter, receiving 3 parameters (start, end, pass). Your program will need to do 3 different counts.
+-1 up to 10, pass = 1
+-1 up to 0, pass = 2
+-Custom your individual count
+ 
+#exercise099
+Do a program to create a function higher, receiving parameters with integer numbers. Your program will analyze all values and print the higher.
+
+#exercise100
+Do a program with a list of numbers, and two functions (sort and sumEven). The first will sort five numbers and store them in that list, and the second will print
+the sum of the even numbers sorted in the other function.
+
+#exercise101
+Do a program to create a function vote that will receive as a parameter the year of birth of a person, returning a value indicating if this person can vote, if is optional
+or obligatory. (16 years old is optional in Brazil, but 18 years old is a obligation)
+
+#exercise102
+Do a program to create a function factorial to receive two parameters. The first parameter indicates the number to calculate, and the other (show), will be the logic 
+value (optional), indicating if will be printed or not, on the screen.
+
+#exercise103
+Do a program to create a function sheet to receive two opcional parametrs: name of the player and goals scored. The program will print the sheet of the player, even if any
+information is not informed correctly.
+
+#exercise104
+Do a program to create a function readInt, that will works like the python function input. However, this function will just accept numeric values.
+
+#exercise105
+Do a program to create a function grades that can receive many grades of students and return a dictionary including these informations:
+-How many grades
+-The higher grade
+-The lower grade
+-The class average
+-The situation (optional)
+-ps: Add docstrings in your program
+
+#exercise106
+Do a small system using Interactive Help. The user will enter a command and the manual will appear. When the user enter 'STOP', the program will stop.
+ps: Use colours
+
+#exercise107
+You need to create a module called coin.py with these functions: increase, recude, double, and half. Also, do a program to import this module and use a few of these functions.
+
+#exercise108
+You need to change the exercise107, creating another function called coin to print the values in a monetary format.
+
+#exercise109
+Do a program to modify the exercise107 in order to accept another parameter, inform if the value returned will be changed to the monetary format (#exercise108).
+ 
+#exercise110
+Add to the module coin.py a function summary, to print on the screen some informations about these modules (#exercise107 and #exercise108).
+
+#exercise111
+Create a package called utilities containing 2 intern modules called coin and data. Transfer all functions of exercise107, exercise108, exercise109 to the first package
+and keep everything working 100%.
+
+#exercise112
+Do a program to create a function writeMoney inside the package utilities of the #exercise111 to work as the function input, but this function needs to accept just
+monetary values.
+
+#exercise113
+Rewrite the function readInt that you did (#exercise104), including the possiblity to enter a number with the type invalid. Also, do a function called readFloat to do
+the same thing.
+
+#exercise114
+Do a program to test if a site is accessible or not from your computer.
+
+#exercise115
+Do a small modularized system to register many people using their name and age in a simple text file. The system will have 2 options: register a new person or list all 
+people that have registered.
+

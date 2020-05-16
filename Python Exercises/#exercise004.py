@@ -1,0 +1,10 @@
+# exercise004
+expression = input('Enter something: ')
+print(f'Type of expression is {type(expression)}')
+print(f'Have space ? {expression.isspace()}')
+print(f'Is numeric ? {expression.isnumeric()}')
+print(f'Is alphabetic ? {expression.isalpha()}')
+print(f'Is alphanumeric ? {expression.isalnum()}')
+print(f'Is upper ? {expression.isupper()}')
+print(f'Is lower ? {expression.islower()}')
+print(f'Is capitalized {expression.istitle()}')
