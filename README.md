@@ -1,2 +1,2 @@
 # Programming Languages Exercises
- Exercises that I did to learn some Programming Languages
+ Exercises that I did to learn some Programming Languages.
